@@ -167,6 +167,78 @@
       "group": "Ind\u00e9pendant",
       "clan": "Ravnos",
       "coterie": "Les Gardiens du Mot Interdit"
+    },
+    {
+      "id": "Cl\u00e9ment Grisaille",
+      "group": "Ind\u00e9pendant",
+      "clan": "Malkavien",
+      "coterie": "Les \u00c9gar\u00e9s de l'Esprit"
+    },
+    {
+      "id": "L\u00e9a Montagne",
+      "group": "Anarch",
+      "clan": "Ventrue",
+      "coterie": null
+    },
+    {
+      "id": "Louis Cramoisy",
+      "group": "Camarilla",
+      "clan": "Tremere",
+      "coterie": null
+    },
+    {
+      "id": "Florent Cardon",
+      "group": "Camarilla",
+      "clan": "Toreador",
+      "coterie": "\u00c9clats de Nuits"
+    },
+    {
+      "id": "Sigrun Helgestad",
+      "group": "Camarilla",
+      "clan": "Ventrue",
+      "coterie": null
+    },
+    {
+      "id": "Inna Volkova",
+      "group": "Sabbat",
+      "clan": "Lasombra",
+      "coterie": "Les Filles du Brasier"
+    },
+    {
+      "id": "Goran Petrovic",
+      "group": "Ind\u00e9pendant",
+      "clan": "Gangrel",
+      "coterie": null
+    },
+    {
+      "id": "Katarzyna Nowak",
+      "group": "Anarch",
+      "clan": "Caitiff",
+      "coterie": null
+    },
+    {
+      "id": "Albrecht K\u00f6nig",
+      "group": "Ind\u00e9pendant",
+      "clan": "Brujah",
+      "coterie": "Le Pacte Gris"
+    },
+    {
+      "id": "Baron Chardon",
+      "group": "Anarch",
+      "clan": "Malkavien",
+      "coterie": null
+    },
+    {
+      "id": "Esra Yildirim",
+      "group": "Camarilla",
+      "clan": "Tremere",
+      "coterie": null
+    },
+    {
+      "id": "Marius De Vos",
+      "group": "Camarilla",
+      "clan": "Ventrue",
+      "coterie": null
     }
   ],
   "links": [
@@ -225,6 +297,54 @@
     {
       "source": "L\u00e9onard Mercier",
       "target": "Santa Ceniza"
+    },
+    {
+      "source": "Cl\u00e9ment Grisaille",
+      "target": "R\u00e8gne"
+    },
+    {
+      "source": "L\u00e9a Montagne",
+      "target": "Camille Aubry"
+    },
+    {
+      "source": "Louis Cramoisy",
+      "target": "Andr\u00e9 Callens"
+    },
+    {
+      "source": "Florent Cardon",
+      "target": "Sabine Volclair"
+    },
+    {
+      "source": "Sigrun Helgestad",
+      "target": "\u00c9l\u00e9onore de Lincelles"
+    },
+    {
+      "source": "Inna Volkova",
+      "target": "Santa Ceniza"
+    },
+    {
+      "source": "Goran Petrovic",
+      "target": "Hans Keller"
+    },
+    {
+      "source": "Katarzyna Nowak",
+      "target": "Bitume"
+    },
+    {
+      "source": "Albrecht K\u00f6nig",
+      "target": "Karl Brenner"
+    },
+    {
+      "source": "Baron Chardon",
+      "target": "Verre Fendu"
+    },
+    {
+      "source": "Esra Yildirim",
+      "target": "Andr\u00e9 Callens"
+    },
+    {
+      "source": "Marius De Vos",
+      "target": "Ad\u00e8le Fournier"
     }
   ]
 }
