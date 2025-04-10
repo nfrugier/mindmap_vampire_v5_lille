@@ -1,0 +1,230 @@
+{
+  "nodes": [
+    {
+      "id": "\u00c9l\u00e9onore de Lincelles",
+      "group": "Camarilla",
+      "clan": "Ventrue",
+      "coterie": "Les Voix Murmurantes"
+    },
+    {
+      "id": "Andr\u00e9 Callens",
+      "group": "Camarilla",
+      "clan": "Tremere",
+      "coterie": "Les Voix Murmurantes"
+    },
+    {
+      "id": "Ad\u00e8le Fournier",
+      "group": "Camarilla",
+      "clan": "Ventrue",
+      "coterie": "Les Voix Murmurantes"
+    },
+    {
+      "id": "B\u00e9atrice Ollier",
+      "group": "Camarilla",
+      "clan": "Nosferatu",
+      "coterie": "Les Voix Murmurantes"
+    },
+    {
+      "id": "Sabine Volclair",
+      "group": "Camarilla",
+      "clan": "Toreador",
+      "coterie": "\u00c9clats de Nuits"
+    },
+    {
+      "id": "R\u00e9my Dubois",
+      "group": "Camarilla",
+      "clan": "Gangrel",
+      "coterie": "Les Sentiers Fendus"
+    },
+    {
+      "id": "C\u00e9cile Vernet",
+      "group": "Camarilla",
+      "clan": "Malkavien",
+      "coterie": "Les \u00c9gar\u00e9s de l'Esprit"
+    },
+    {
+      "id": "L\u00e9onard Mercier",
+      "group": "Camarilla",
+      "clan": "Lasombra",
+      "coterie": "Le Pacte Gris"
+    },
+    {
+      "id": "Verre Fendu",
+      "group": "Anarch",
+      "clan": "Malkavien",
+      "coterie": "Les \u00c9gar\u00e9s de l'Esprit"
+    },
+    {
+      "id": "Camille Aubry",
+      "group": "Anarch",
+      "clan": "Gangrel",
+      "coterie": "Les Sentiers Fendus"
+    },
+    {
+      "id": "Bitume",
+      "group": "Anarch",
+      "clan": "Nosferatu",
+      "coterie": "Les Sentiers Fendus"
+    },
+    {
+      "id": "Juju la Cr\u00e8ve",
+      "group": "Anarch",
+      "clan": "Caitiff",
+      "coterie": null
+    },
+    {
+      "id": "Luciano Belloni",
+      "group": "Anarch",
+      "clan": "Toreador",
+      "coterie": "\u00c9clats de Nuits"
+    },
+    {
+      "id": "Manon Giraud",
+      "group": "Anarch",
+      "clan": "Brujah",
+      "coterie": null
+    },
+    {
+      "id": "Santa Ceniza",
+      "group": "Sabbat",
+      "clan": "Lasombra",
+      "coterie": "Les Filles du Brasier"
+    },
+    {
+      "id": "Fr\u00e8re Joris",
+      "group": "Sabbat",
+      "clan": "Tzimisce",
+      "coterie": "Les Filles du Brasier"
+    },
+    {
+      "id": "Claudia La M\u00e8re",
+      "group": "Sabbat",
+      "clan": "Tzimisce",
+      "coterie": "Les Filles du Brasier"
+    },
+    {
+      "id": "M\u00e9got",
+      "group": "Sabbat",
+      "clan": "Brujah",
+      "coterie": "Les Filles du Brasier"
+    },
+    {
+      "id": "R\u00e8gne",
+      "group": "Sabbat",
+      "clan": "Malkavien",
+      "coterie": "Les \u00c9gar\u00e9s de l'Esprit"
+    },
+    {
+      "id": "Karl Brenner",
+      "group": "Sabbat",
+      "clan": "Ventrue",
+      "coterie": "Le Pacte Gris"
+    },
+    {
+      "id": "\u00c9tienne de Quinsonas",
+      "group": "Sabbat",
+      "clan": "Lasombra",
+      "coterie": "Les Filles du Brasier"
+    },
+    {
+      "id": "Mehdi Choukri",
+      "group": "Ind\u00e9pendant",
+      "clan": "Banu Haqim",
+      "coterie": "Les Gardiens du Mot Interdit"
+    },
+    {
+      "id": "La Voil\u00e9e",
+      "group": "Ind\u00e9pendant",
+      "clan": "Cappadocien",
+      "coterie": "Les Gardiens du Mot Interdit"
+    },
+    {
+      "id": "Kamil Jafari",
+      "group": "Ind\u00e9pendant",
+      "clan": "Ravnos",
+      "coterie": "Les Gardiens du Mot Interdit"
+    },
+    {
+      "id": "Hans Keller",
+      "group": "Ind\u00e9pendant",
+      "clan": "Gangrel",
+      "coterie": "Les Sentiers Fendus"
+    },
+    {
+      "id": "L\u00e9a Morel",
+      "group": "Ind\u00e9pendant",
+      "clan": "Toreador",
+      "coterie": "\u00c9clats de Nuits"
+    },
+    {
+      "id": "Zo\u00e9 Qassem",
+      "group": "Ind\u00e9pendant",
+      "clan": "Banu Haqim",
+      "coterie": "Les Gardiens du Mot Interdit"
+    },
+    {
+      "id": "Farida N'Dour",
+      "group": "Ind\u00e9pendant",
+      "clan": "Ravnos",
+      "coterie": "Les Gardiens du Mot Interdit"
+    }
+  ],
+  "links": [
+    {
+      "source": "\u00c9l\u00e9onore de Lincelles",
+      "target": "Andr\u00e9 Callens"
+    },
+    {
+      "source": "Andr\u00e9 Callens",
+      "target": "Ad\u00e8le Fournier"
+    },
+    {
+      "source": "Sabine Volclair",
+      "target": "L\u00e9a Morel"
+    },
+    {
+      "source": "Verre Fendu",
+      "target": "R\u00e8gne"
+    },
+    {
+      "source": "Camille Aubry",
+      "target": "R\u00e9my Dubois"
+    },
+    {
+      "source": "Bitume",
+      "target": "Juju la Cr\u00e8ve"
+    },
+    {
+      "source": "Santa Ceniza",
+      "target": "M\u00e9got"
+    },
+    {
+      "source": "Fr\u00e8re Joris",
+      "target": "Claudia La M\u00e8re"
+    },
+    {
+      "source": "R\u00e8gne",
+      "target": "Hans Keller"
+    },
+    {
+      "source": "Mehdi Choukri",
+      "target": "La Voil\u00e9e"
+    },
+    {
+      "source": "Hans Keller",
+      "target": "R\u00e9my Dubois"
+    },
+    {
+      "source": "Zo\u00e9 Qassem",
+      "target": "Mehdi Choukri"
+    },
+    {
+      "source": "Farida N'Dour",
+      "target": "Kamil Jafari"
+    },
+    {
+      "source": "L\u00e9onard Mercier",
+      "target": "Santa Ceniza"
+    }
+  ]
+}
