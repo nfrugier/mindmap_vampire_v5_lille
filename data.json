@@ -4,241 +4,281 @@
       "id": "\u00c9l\u00e9onore de Lincelles",
       "group": "Camarilla",
       "clan": "Ventrue",
-      "coterie": "Les Voix Murmurantes"
+      "coterie": "Les Voix Murmurantes",
+      "major": true
     },
     {
       "id": "Andr\u00e9 Callens",
       "group": "Camarilla",
       "clan": "Tremere",
-      "coterie": "Les Voix Murmurantes"
+      "coterie": "Les Voix Murmurantes",
+      "major": true
     },
     {
       "id": "Ad\u00e8le Fournier",
       "group": "Camarilla",
       "clan": "Ventrue",
-      "coterie": "Les Voix Murmurantes"
+      "coterie": "Les Voix Murmurantes",
+      "major": true
     },
     {
       "id": "B\u00e9atrice Ollier",
       "group": "Camarilla",
       "clan": "Nosferatu",
-      "coterie": "Les Voix Murmurantes"
+      "coterie": "Les Voix Murmurantes",
+      "major": true
     },
     {
       "id": "Sabine Volclair",
       "group": "Camarilla",
       "clan": "Toreador",
-      "coterie": "\u00c9clats de Nuits"
+      "coterie": "\u00c9clats de Nuits",
+      "major": true
     },
     {
       "id": "R\u00e9my Dubois",
       "group": "Camarilla",
       "clan": "Gangrel",
-      "coterie": "Les Sentiers Fendus"
+      "coterie": "Les Sentiers Fendus",
+      "major": true
     },
     {
       "id": "C\u00e9cile Vernet",
       "group": "Camarilla",
       "clan": "Malkavien",
-      "coterie": "Les \u00c9gar\u00e9s de l'Esprit"
+      "coterie": "Les \u00c9gar\u00e9s de l'Esprit",
+      "major": true
     },
     {
       "id": "L\u00e9onard Mercier",
       "group": "Camarilla",
       "clan": "Lasombra",
-      "coterie": "Le Pacte Gris"
+      "coterie": "Le Pacte Gris",
+      "major": true
     },
     {
       "id": "Verre Fendu",
       "group": "Anarch",
       "clan": "Malkavien",
-      "coterie": "Les \u00c9gar\u00e9s de l'Esprit"
+      "coterie": "Les \u00c9gar\u00e9s de l'Esprit",
+      "major": true
     },
     {
       "id": "Camille Aubry",
       "group": "Anarch",
       "clan": "Gangrel",
-      "coterie": "Les Sentiers Fendus"
+      "coterie": "Les Sentiers Fendus",
+      "major": true
     },
     {
       "id": "Bitume",
       "group": "Anarch",
       "clan": "Nosferatu",
-      "coterie": "Les Sentiers Fendus"
+      "coterie": "Les Sentiers Fendus",
+      "major": true
     },
     {
       "id": "Juju la Cr\u00e8ve",
       "group": "Anarch",
       "clan": "Caitiff",
-      "coterie": null
+      "coterie": null,
+      "major": true
     },
     {
       "id": "Luciano Belloni",
       "group": "Anarch",
       "clan": "Toreador",
-      "coterie": "\u00c9clats de Nuits"
+      "coterie": "\u00c9clats de Nuits",
+      "major": true
     },
     {
       "id": "Manon Giraud",
       "group": "Anarch",
       "clan": "Brujah",
-      "coterie": null
+      "coterie": null,
+      "major": true
     },
     {
       "id": "Santa Ceniza",
       "group": "Sabbat",
       "clan": "Lasombra",
-      "coterie": "Les Filles du Brasier"
+      "coterie": "Les Filles du Brasier",
+      "major": true
     },
     {
       "id": "Fr\u00e8re Joris",
       "group": "Sabbat",
       "clan": "Tzimisce",
-      "coterie": "Les Filles du Brasier"
+      "coterie": "Les Filles du Brasier",
+      "major": true
     },
     {
       "id": "Claudia La M\u00e8re",
       "group": "Sabbat",
       "clan": "Tzimisce",
-      "coterie": "Les Filles du Brasier"
+      "coterie": "Les Filles du Brasier",
+      "major": true
     },
     {
       "id": "M\u00e9got",
       "group": "Sabbat",
       "clan": "Brujah",
-      "coterie": "Les Filles du Brasier"
+      "coterie": "Les Filles du Brasier",
+      "major": true
     },
     {
       "id": "R\u00e8gne",
       "group": "Sabbat",
       "clan": "Malkavien",
-      "coterie": "Les \u00c9gar\u00e9s de l'Esprit"
+      "coterie": "Les \u00c9gar\u00e9s de l'Esprit",
+      "major": true
     },
     {
       "id": "Karl Brenner",
       "group": "Sabbat",
       "clan": "Ventrue",
-      "coterie": "Le Pacte Gris"
+      "coterie": "Le Pacte Gris",
+      "major": true
     },
     {
       "id": "\u00c9tienne de Quinsonas",
       "group": "Sabbat",
       "clan": "Lasombra",
-      "coterie": "Les Filles du Brasier"
+      "coterie": "Les Filles du Brasier",
+      "major": true
     },
     {
       "id": "Mehdi Choukri",
       "group": "Ind\u00e9pendant",
       "clan": "Banu Haqim",
-      "coterie": "Les Gardiens du Mot Interdit"
+      "coterie": "Les Gardiens du Mot Interdit",
+      "major": true
     },
     {
       "id": "La Voil\u00e9e",
       "group": "Ind\u00e9pendant",
       "clan": "Cappadocien",
-      "coterie": "Les Gardiens du Mot Interdit"
+      "coterie": "Les Gardiens du Mot Interdit",
+      "major": true
     },
     {
       "id": "Kamil Jafari",
       "group": "Ind\u00e9pendant",
       "clan": "Ravnos",
-      "coterie": "Les Gardiens du Mot Interdit"
+      "coterie": "Les Gardiens du Mot Interdit",
+      "major": true
     },
     {
       "id": "Hans Keller",
       "group": "Ind\u00e9pendant",
       "clan": "Gangrel",
-      "coterie": "Les Sentiers Fendus"
+      "coterie": "Les Sentiers Fendus",
+      "major": true
     },
     {
       "id": "L\u00e9a Morel",
       "group": "Ind\u00e9pendant",
       "clan": "Toreador",
-      "coterie": "\u00c9clats de Nuits"
+      "coterie": "\u00c9clats de Nuits",
+      "major": true
     },
     {
       "id": "Zo\u00e9 Qassem",
       "group": "Ind\u00e9pendant",
       "clan": "Banu Haqim",
-      "coterie": "Les Gardiens du Mot Interdit"
+      "coterie": "Les Gardiens du Mot Interdit",
+      "major": true
     },
     {
       "id": "Farida N'Dour",
       "group": "Ind\u00e9pendant",
       "clan": "Ravnos",
-      "coterie": "Les Gardiens du Mot Interdit"
+      "coterie": "Les Gardiens du Mot Interdit",
+      "major": true
     },
     {
       "id": "Cl\u00e9ment Grisaille",
       "group": "Ind\u00e9pendant",
       "clan": "Malkavien",
-      "coterie": "Les \u00c9gar\u00e9s de l'Esprit"
+      "coterie": "Les \u00c9gar\u00e9s de l'Esprit",
+      "major": false
     },
     {
       "id": "L\u00e9a Montagne",
       "group": "Anarch",
       "clan": "Ventrue",
-      "coterie": null
+      "coterie": null,
+      "major": false
     },
     {
       "id": "Louis Cramoisy",
       "group": "Camarilla",
       "clan": "Tremere",
-      "coterie": null
+      "coterie": null,
+      "major": false
     },
     {
       "id": "Florent Cardon",
       "group": "Camarilla",
       "clan": "Toreador",
-      "coterie": "\u00c9clats de Nuits"
+      "coterie": "\u00c9clats de Nuits",
+      "major": false
     },
     {
       "id": "Sigrun Helgestad",
       "group": "Camarilla",
       "clan": "Ventrue",
-      "coterie": null
+      "coterie": null,
+      "major": false
     },
     {
       "id": "Inna Volkova",
       "group": "Sabbat",
       "clan": "Lasombra",
-      "coterie": "Les Filles du Brasier"
+      "coterie": "Les Filles du Brasier",
+      "major": false
     },
     {
       "id": "Goran Petrovic",
       "group": "Ind\u00e9pendant",
       "clan": "Gangrel",
-      "coterie": null
+      "coterie": null,
+      "major": false
     },
     {
       "id": "Katarzyna Nowak",
       "group": "Anarch",
       "clan": "Caitiff",
-      "coterie": null
+      "coterie": null,
+      "major": false
     },
     {
       "id": "Albrecht K\u00f6nig",
       "group": "Ind\u00e9pendant",
       "clan": "Brujah",
-      "coterie": "Le Pacte Gris"
+      "coterie": "Le Pacte Gris",
+      "major": false
     },
     {
       "id": "Baron Chardon",
       "group": "Anarch",
       "clan": "Malkavien",
-      "coterie": null
+      "coterie": null,
+      "major": false
     },
     {
       "id": "Esra Yildirim",
       "group": "Camarilla",
       "clan": "Tremere",
-      "coterie": null
+      "coterie": null,
+      "major": false
     },
     {
       "id": "Marius De Vos",
       "group": "Camarilla",
       "clan": "Ventrue",
-      "coterie": null
+      "coterie": null,
+      "major": false
     }
   ],
   "links": [
